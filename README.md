@@ -52,6 +52,10 @@ At the end of the activity, you will be redirected to the rank page to see your 
   ```sh
   npm start
   ```
+  - Running unit tests
+  ```sh
+  npm run test
+  ```
 
 ### Frontend
 
@@ -67,10 +71,7 @@ At the end of the activity, you will be redirected to the rank page to see your 
   ```sh
   npm start
   ```
-- Running unit tests
-  ```sh
-  npm run test
-  ```
+
 
 # API Requirements
 
